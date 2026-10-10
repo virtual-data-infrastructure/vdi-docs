@@ -1,0 +1,18 @@
+# List of VDI repositories to display on the landing page.
+# Replace / extend these placeholder entries with your real repos.
+
+- name: vdi-docs
+  url: https://github.com/virtual-data-infrastructure/vdi-docs
+  description: This documentation site.
+
+- name: vdi-frontend
+  url: https://github.com/virtual-data-infrastructure/vdi-frontend
+  description: Webserver for visualisation of data graphs.
+
+- name: vdi-client
+  url: https://github.com/virtual-data-infrastructure/vdi-client
+  description: Tools, libraries, interfaces, add-ons for transparently creating a data flow graph.
+
+- name: vdi-backend
+  url: https://github.com/virtual-data-infrastructure/vdi-backend
+  description: Backend for VDI frontend including a REST API, some file storage and a database.

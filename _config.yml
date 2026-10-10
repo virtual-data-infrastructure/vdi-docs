@@ -1,0 +1,17 @@
+title: Virtual Data Infrastructure
+description: Documentation for the Virtual Data Infrastructure (VDI) project.
+baseurl: ""
+url: ""
+
+theme: minima
+
+header_pages:
+  - users/index.md
+  - admins/index.md
+  - developers/index.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
